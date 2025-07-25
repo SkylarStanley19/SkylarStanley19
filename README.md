@@ -55,9 +55,7 @@ I'm always pushing the boundaries of what’s possible in NLP by learning about:
 I'm always looking for opportunities to contribute to meaningful projects, collaborate with talented teams, and learn from others in the field. If you'd like to discuss a project or have an exciting challenge in **NLP** or **AI**, don't hesitate to reach out.
 
 📫 **Contact Me**:  
-- **Email**: [skylarstanley1994@gmail.com](mailto:skylarstanley1994@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/skylar-stanley-2772a1361](https://www.linkedin.com/in/skylar-stanley-2772a1361/)  
-
+- **Email**: [skylarstanley92@outlook.com](mailto:skylarstanley92@outlook.com)  
 Let's build something amazing together!  
 
 ---
