@@ -37,27 +37,6 @@ Here are some projects that highlight my expertise and passion:
 - 🚀 **Document Summarization Pipeline**  
     Built a scalable pipeline for automated summarization of long-form documents using pre-trained **T5 transformers**.  
 
-Explore more of my projects in the [repositories section](https://github.com/YourUsername?tab=repositories)!  
-
----
-
-### 🌱 What I'm Learning  
-I'm always pushing the boundaries of what’s possible in NLP by learning about:  
-- **Advanced Fine-Tuning Techniques for Transformers**  
-- **Prompt Engineering**  
-- **Explainable AI in NLP**  
-- **Few-Shot and Zero-Shot Learning**  
-
----
-
-### 🤝 Let’s Collaborate!  
-
-I'm always looking for opportunities to contribute to meaningful projects, collaborate with talented teams, and learn from others in the field. If you'd like to discuss a project or have an exciting challenge in **NLP** or **AI**, don't hesitate to reach out.
-
-📫 **Contact Me**:  
-- **Email**: [skylarstanley92@outlook.com](mailto:skylarstanley92@outlook.com)  
-Let's build something amazing together!  
-
 ---
 
 ### 🌟 Fun Fact:  
